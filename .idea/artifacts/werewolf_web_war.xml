@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="werewolf-web:war">
+    <output-path>$PROJECT_DIR$/werewolf-web/target</output-path>
+    <root id="archive" name="werewolf-web.war">
+      <element id="artifact" artifact-name="werewolf-web:war exploded" />
+    </root>
+  </artifact>
+</component>
