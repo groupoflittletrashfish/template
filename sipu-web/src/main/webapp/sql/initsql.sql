@@ -1,4 +1,8 @@
-SET FOREIGN_KEY_CHECKS=0;  
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `sipujuye` /*!40100 DEFAULT CHARACTER SET utf8 */;
+
+USE `sipujuye`;
+
+SET FOREIGN_KEY_CHECKS=0;
   
 -- ----------------------------  
 -- Table structure for `t_user`  
