@@ -7,12 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="commanageqh" />
+        <module name="naipusi-web" />
+        <module name="sipu-web" />
         <module name="werewolf-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="commanageqh" target="1.7" />
+      <module name="naipusi-web" target="1.7" />
       <module name="qhApp" target="1.5" />
+      <module name="sipu-web" target="1.7" />
+      <module name="sipuWeb" target="1.5" />
       <module name="werewolf" target="1.5" />
       <module name="werewolf-web" target="1.7" />
     </bytecodeTargetLevel>
