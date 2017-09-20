@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sipu-web:war">
+    <output-path>$PROJECT_DIR$/sipu-web/target</output-path>
+    <root id="archive" name="sipu-web.war">
+      <element id="artifact" artifact-name="sipu-web:war exploded" />
+    </root>
+  </artifact>
+</component>

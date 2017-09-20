@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E:\werewolf\werewolf-web\commanageqh.iml" filepath="E:\werewolf\werewolf-web\commanageqh.iml" />
+      <module fileurl="file://E:/werewolf/werewolf-web/commanageqh.iml" filepath="E:/werewolf/werewolf-web/commanageqh.iml" />
       <module fileurl="file://$PROJECT_DIR$/sipu-web/naipusi-web.iml" filepath="$PROJECT_DIR$/sipu-web/naipusi-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/naipusiWeb.iml" filepath="$PROJECT_DIR$/.idea/naipusiWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sipu-web/sipu-web.iml" filepath="$PROJECT_DIR$/sipu-web/sipu-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/sipuWeb.iml" filepath="$PROJECT_DIR$/sipuWeb.iml" />
-      <module fileurl="file://E:\werewolf\werewolf-web\werewolf-web.iml" filepath="E:\werewolf\werewolf-web\werewolf-web.iml" />
+      <module fileurl="file://E:/werewolf/werewolf-web/werewolf-web.iml" filepath="E:/werewolf/werewolf-web/werewolf-web.iml" />
     </modules>
   </component>
 </project>

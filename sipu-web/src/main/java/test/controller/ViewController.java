@@ -3,6 +3,8 @@ package test.controller;
 /**
  * Created by chenchaochao on 2017/04/20.
  */
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.multipart.MultipartFile;
 import test.entity.User;
 import test.service.UserService;
 import org.apache.commons.collections.map.HashedMap;
@@ -52,6 +54,11 @@ public class ViewController {
         logger.info("登录成功。。。。");
 
         return "success";
+    }
+
+    @RequestMapping("savePic")
+    public void savePic(@RequestParam("upload") MultipartFile file){
+
     }
 
 }

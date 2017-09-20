@@ -15,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="commanageqh" target="1.7" />
       <module name="naipusi-web" target="1.7" />
+      <module name="naipusiWeb" target="1.5" />
       <module name="qhApp" target="1.5" />
       <module name="sipu-web" target="1.7" />
       <module name="sipuWeb" target="1.5" />
